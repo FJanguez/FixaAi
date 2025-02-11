@@ -1,4 +1,4 @@
 package com.fixaai.domain.user;
 
-public class UserRegistrationDTO {
+public record UserRegistrationDTO() {
 }
